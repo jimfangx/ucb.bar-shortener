@@ -21,7 +21,7 @@
     * Ex: `ucb.bar/hammer/hammer/par/innovus/__init__.py@b18de4b0f06c426b2e8e8e1bc9e6f459962c50ea` → https://github.com/ucb-bar/hammer/blob/b18de4b0f06c426b2e8e8e1bc9e6f459962c50ea/hammer/par/innovus/\_\_init__.py
 
 ## exceptions
-* Resolving a file path in FireSim cannot be done via `ucb.bar/firesim/docs` (for example) due to potential confusion between a directory/file name with a repo name.
+* Resolving a file path in FireSim cannot be done via `ucb.bar/firesim/docs` (for example) due to potential confusion between a directory/file name with a repo name. For this to work, you need to use `ucb.bar/firesim/firesim/<your docs>`
 
 ## deployment
 * cloudflare workers
