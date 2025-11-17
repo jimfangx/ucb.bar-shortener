@@ -26,3 +26,4 @@
 ## deployment
 * cloudflare workers
 * `npm run deploy`
+* Autodeploy setup
