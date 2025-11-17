@@ -1,0 +1,11 @@
+{
+	"name": "custom-link-shortener",
+	"main": "src/index.js",
+	"compatibility_date": "2025-11-16",
+	"kv_namespaces": [
+		{
+			"binding": "CUSTOMLINKS",
+			"id": "7a6154408ad14b3f838395fbe526c1ea"
+		}
+	]
+}

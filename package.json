@@ -1,0 +1,17 @@
+{
+  "name": "ucbbar-shortner",
+  "version": "0.0.1",
+  "description": "",
+  "license": "MIT",
+  "author": "jimfangx",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.47.0"
+  }
+}
